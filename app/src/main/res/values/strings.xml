@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">ExchangeRate</string>
+    <string name="title">Exchange Rate</string>
+    <string name="title_detail">Detail Rate</string>
+    <string name="title_country">Country</string>
+    <string name="title_buy">Buy</string>
+    <string name="title_sell">Sell</string>
+
+    <string-array name="data_price_buy">
+        <item>1.403</item>
+        <item>9.123</item>
+        <item>3.704</item>
+        <item>116.0</item>
+        <item>1.725</item>
+        <item>1.403</item>
+        <item>3.454</item>
+        <item>23.45</item>
+        <item>263.1</item>
+        <item>1.725</item>
+    </string-array>
+
+    <string-array name="data_price_sell">
+        <item>1.746</item>
+        <item>12.09</item>
+        <item>5.151</item>
+        <item>144.4</item>
+        <item>2.234</item>
+        <item>1.746</item>
+        <item>4.312</item>
+        <item>34.56</item>
+        <item>300.3</item>
+        <item>2.234</item>
+    </string-array>
+
+    <string-array name="data_country">
+        <item>Vietnam</item>
+        <item>Nicaragua</item>
+        <item>Korea</item>
+        <item>Russia</item>
+        <item>China</item>
+        <item>Portuguese</item>
+        <item>Korea</item>
+        <item>French</item>
+        <item>Nicaragua</item>
+        <item>China</item>
+    </string-array>
+
+    <integer-array name="data_flag">
+        <item>@drawable/vn</item>
+        <item>@drawable/ni</item>
+        <item>@drawable/kr</item>
+        <item>@drawable/ru</item>
+        <item>@drawable/cn</item>
+        <item>@drawable/pt</item>
+        <item>@drawable/kr</item>
+        <item>@drawable/fr</item>
+        <item>@drawable/ni</item>
+        <item>@drawable/cn</item>
+    </integer-array>
+</resources>
